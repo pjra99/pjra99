@@ -4,6 +4,5 @@
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Front-end projects
 - 🤔 I’m looking for an Internship in Frontend Web Dev
-- 💬 Ask me about ...
 - 📫 How to reach me: pranjalbhs@gmail.com
 - ⚡ Fun fact: I can play guitar as good as I can code :)

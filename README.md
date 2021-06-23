@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🔭 I’m currently working on Front-end Web Dev (React.js).
+- 🔭 I’m currently working on React.js.
 - 🌱 I’m currently learning Redux and DSA
 - 👯 I’m looking to collaborate on Front-end projects
 - 🤔 I’m looking for an Internship in Front-end Web Dev

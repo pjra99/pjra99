@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Node.js**
 
+- 👯 I’m looking to collaborate on **Full stack Projects**
+
 - 📫 How to reach me **pranjalbhs@gmail.com**
 
 - ⚡ Fun fact **I can play guitar a sing to give you some headache.**

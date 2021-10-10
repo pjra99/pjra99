@@ -5,15 +5,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pjra99" alt="pjra99" /></a> </p>
 
-<p align="center">
-  - 🌱 I’m currently learning **Node.js**
+
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **Full stack Projects**
 
 - 📫 How to reach me **pranjalbhs@gmail.com**
 
 - ⚡ Fun fact **I can play guitar a sing to give you some headache.**
-  </p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>

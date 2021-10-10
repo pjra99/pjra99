@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pranjal Rai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Pranjal Rai</h1>
+<h3>A passionate frontend developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pjra99&label=Profile%20views&color=0e75b6&style=flat" alt="pjra99" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=pjra99&label=Profile%20views&color=0e75b6&style=flat" alt="pjra99" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pjra99" alt="pjra99" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pjra99" alt="pjra99" /></a> </p>
 
 
 - 🌱 I’m currently learning **Node.js**

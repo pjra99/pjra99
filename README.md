@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pranjalbhs@gmail.com**
 
-- ⚡ Fun fact **I can play guitar a sing to give you some headache.**
+<!-- - ⚡ Fun fact **I can play guitar a sing to give you some headache.** -->
 
 
 

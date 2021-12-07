@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pranjalbhs@gmail.com**
 
-- Would like you guys to visit my [@portfolio](https://pjra99.me/)
+- <img src="images/logo.png" alt="Logo" width="80" height="80"> Would like you guys to visit my [@portfolio](https://pjra99.me/)
 <!-- - ⚡ Fun fact **I can play guitar a sing to give you some headache.** -->
 
 <br />

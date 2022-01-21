@@ -24,4 +24,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=pjra99&show_icons=true&locale=en" alt="pjra99" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pjra99&" alt="pjra99" /></p>
+<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pjra99&" alt="pjra99" /></p> -->

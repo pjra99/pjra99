@@ -6,7 +6,7 @@
 <!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pjra99" alt="pjra99" /></a> </p> -->
 <br />
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Node js** & **Express**
 
 - 👯 I’m looking to collaborate on **Full stack Projects**
 

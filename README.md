@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack Projects**
 
-- 📫 How to reach me **pranjalbhs@gmail.com**
+- 📫 How to reach me **pranjal.1923co1082@kiet.edu**
 
 - 🚀 Would love to have you at my [@portfolio](https://pjra99.me/)
 <!-- - ⚡ Fun fact **I can play guitar a sing to give you some headache.** -->

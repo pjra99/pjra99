@@ -1,18 +1,18 @@
 <h1>Hi 👋, I'm Pranjal Rai</h1>
-<h3>A Frontend Developer from India</h3>
+<h3>A Software Devloper from India</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=pjra99&label=Profile%20views&color=0e75b6&style=flat" alt="pjra99" /> </p>
 
 <!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pjra99" alt="pjra99" /></a> </p> -->
 <br />
 
-- 🌱 I’m currently learning **Express** & **Mongo db**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Full stack Projects**
 
-- 📫 How to reach me **pranjal.1923co1082@kiet.edu**
+- 📫 How to reach me **raipranjalofficial@gmail.com**
 
-- 🚀 Would love to have you at my [@portfolio](https://pjra99.me/)
+- 🚀 Would love to have you at my [@portfolio](https://pjra99.netlify.app/)
 <!-- - ⚡ Fun fact **I can play guitar a sing to give you some headache.** -->
 
 <br />
